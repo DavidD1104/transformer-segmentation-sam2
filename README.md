@@ -34,8 +34,8 @@ The system performs **zero-shot image segmentation** and **prompt-guided segment
 Below are qualitative visual results illustrating how SAM 2 interprets visual scenes, both autonomously and with user guidance.
 
 <p align="center">
-  <img src="assets/sam_no_prompt.png" width="45%" />
-  <img src="assets/sam_point_prompt.png" width="45%" />
+  <img src="assets/000000000001.jpg" width="45%" />
+  <img src="assets/interactive2.png" width="45%" />
 </p>
 
 <p align="center">
