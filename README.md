@@ -31,7 +31,7 @@ The system performs **zero-shot image segmentation** and **prompt-guided segment
 
 ## Expected output
 
-Below are qualitative visual results of running YOLOv8n and YOLOv8s on the MOT17-10-FRCNN sequence.
+
 
 
 <p align="center">
