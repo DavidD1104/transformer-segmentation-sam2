@@ -58,8 +58,11 @@ Below are qualitative visual results illustrating how SAM 2 interprets visual sc
 
 ## Dataset
 
-The system is dataset-agnostic and operates on any image source
+The system is dataset-agnostic and operates on any image source.
 
+I used the following ones:
+- NEU Surface Defect Database from Kaggle: https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
+- Coco dataset: https://cocodataset.org/#home
 
 ## Future Work
 
