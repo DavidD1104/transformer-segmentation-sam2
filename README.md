@@ -29,7 +29,7 @@ The system performs **zero-shot image segmentation** and **prompt-guided segment
 ---
 
 
-## Expected output
+## Results
 
 Below are qualitative visual results illustrating how SAM 2 interprets visual scenes, both autonomously and with user guidance.
 
@@ -52,8 +52,6 @@ Below are qualitative visual results illustrating how SAM 2 interprets visual sc
 </p>
 
 ---
-
-## Results
 
 
 ## Dataset
