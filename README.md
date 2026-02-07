@@ -42,6 +42,15 @@ Below are qualitative visual results illustrating how SAM 2 interprets visual sc
   Automatic segmentation &nbsp;&nbsp; | &nbsp;&nbsp; Prompt-guided segmentation
 </p>
 
+<p align="center">
+  <img src="assets/scratches_11.jpg" width="45%" />
+  <img src="assets/interactive3.png" width="45%" />
+</p>
+
+<p align="center">
+  Automatic segmentation &nbsp;&nbsp; | &nbsp;&nbsp; Prompt-guided segmentation
+</p>
+
 ---
 
 ## Results
