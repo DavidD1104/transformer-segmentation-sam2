@@ -30,6 +30,7 @@ The system performs **zero-shot image segmentation** and **prompt-guided segment
 
 
 ## Results
+In this case, i used the SAM2 version sam2.1_hiera_small. You can find more in the official repository: https://github.com/facebookresearch/sam2
 
 Below are qualitative visual results illustrating how SAM 2 interprets visual scenes, both autonomously and with user guidance.
 
