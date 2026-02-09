@@ -34,6 +34,8 @@ In this case, i used the SAM2 version sam2.1_hiera_small. You can find more in t
 
 Below are qualitative visual results illustrating how SAM 2 interprets visual scenes, both autonomously and with user guidance.
 
+### General-Purpose Dataset – COCO
+
 <p align="center">
   <img src="assets/000000000001.jpg" width="45%" />
   <img src="assets/interactive2.png" width="45%" />
@@ -42,6 +44,8 @@ Below are qualitative visual results illustrating how SAM 2 interprets visual sc
 <p align="center">
   Automatic segmentation &nbsp;&nbsp; | &nbsp;&nbsp; Prompt-guided segmentation
 </p>
+
+### Industrial Dataset – NEU Surface Defect Database
 
 <p align="center">
   <img src="assets/scratches_11.jpg" width="45%" />
